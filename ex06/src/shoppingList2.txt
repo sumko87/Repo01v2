@@ -1,4 +1,1 @@
-- Chocolate;
-- Cookies;
-- Lollipops;
-- Orbit;
+(Chocolate, Cookies, Lollipops, Orbit)
